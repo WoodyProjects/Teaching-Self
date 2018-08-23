@@ -1,3 +1,18 @@
+**TABLE OF CONTENTS**
+
+[Teaching-Self](#teaching-self)
+
+[Learning](#learning)
+
+[Living](#living)
+
+[Loving](#loving)
+
+
+
+
+
+
 # Teaching-Self
 A place to store things I am teaching myself
 
@@ -20,3 +35,113 @@ To do:
 -[ ] picture link
 
 -[ ] grocery shopping
+
+
+
+
+
+# Learning
+
+Some people do this.
+
+
+
+
+
+# Living
+
+Many people enjoy this.
+
+
+
+
+# Loving
+
+To love you must both [live](#living) and [learn](#learning)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
