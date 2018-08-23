@@ -3,7 +3,7 @@ A place to store things I am teaching myself
 
 A *place* to [**click**](https://github.com/WoodyProjects) to go home
 
-This is a picture of a place ![and at least one circle](images/100 vs 75 mile radius.bmp)
+This is a picture of a place ![and at least one circle](/images/100 vs 75 mile radius.bmp)
 >or at least
 
 >will be soon
